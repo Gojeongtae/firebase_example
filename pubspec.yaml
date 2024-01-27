@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  firebase_core: ^1.2.1 #파이어 베이스 기본 패캐지  
+  firebase_analytics: ^8.1.1 #파이어 베이스 애널리틱스 패캐지
 
 
   # The following adds the Cupertino Icons font to your application.
